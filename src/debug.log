@@ -1,0 +1,2 @@
+[0112/141458.901:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie mo¿e odnaleŸæ okreœlonej œcie¿ki. (0x3)
+[0113/015637.684:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
